@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: center;
+  
+    }
+  </style>
+</head>
+<body>
+
+  <h2 text align ="middle">Courses List</h2>
+
+  <table>
+    <tr>
+      <th>Course</th>
+      <th>Requirments</th>
+      <th>Success Rate of passing</th>
+      <th>Difficulty</th>
+    </tr>
+    <tr>
+      <td>Engineering</td>
+      <td>Mathematics Major & Arts</td>
+      <td>30-50%</td>
+      <td>10/10</td>
+    </tr>
+    <tr>
+      <td>Doctor</td>
+      <td>Anatomy & Science</td>
+      <td>40%-65%</td>
+      <td>9.8/10</td>
+    </tr>
+     <tr>
+       <td>Lawyer</td>
+       <td>Law Education</td>
+       <td>36-70%</td>
+       <td>8.9/10</td>
+    </tr>
+     <tr>
+       <td>Pilot</td>
+       <td>Idk, just fly</td>
+       <td>60-80%</td>
+       <td>6/10</td>
+    </tr>
+    <tr>
+        <td>Broker</td>
+        <td>Stock Market & Statistics</td>
+        <td>13-80% (luck)</td>
+        <td>3/10</td>
+    </tr>
+    
+ 
+  </table>
+
+</body>
+</html>
